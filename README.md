@@ -10,8 +10,18 @@ I'm currently learning and creating projects in:
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 <br>
+Connect with me:
+<br>
+<a href="https://www.instagram.com/raphaelfiais/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFiais)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelFiais&show_icons=true&theme=dark)
