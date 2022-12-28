@@ -1,7 +1,7 @@
 <h1 align = "center" >Welcome to my profile! <img width="100" src="https://media1.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47atdzzfkkfr5ks0ez50s1tkfvqs82rygd6m9i4jmv&rid=giphy.gif&ct=s" /></h1>
 <br/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Front-End;Em+busca+de+constante+evolução;Gosto+de+musica+e+jogos"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Front-End;Buscando+sempre+constante+evolução;"></a>
 </p>
 I'm Raphael Fiais and a Dev-Front End.
 <br/>
