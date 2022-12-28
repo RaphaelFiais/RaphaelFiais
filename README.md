@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Front-End;Buscando+sempre+constante+evolução;"></a>
 </p>
-I'm Raphael Fiais and a Dev-Front End.
+Bem vindo ao meu perfil!!
+<p>Aqui você encontra sobre mim, os meus projetos e as ferramentas que utilizo</p>
 <br/>
 <br/>
 I'm currently learning and creating projects in:
