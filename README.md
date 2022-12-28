@@ -3,15 +3,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Front-End;Buscando+sempre+constante+evolução;"></a>
 </p>
-Bem vindo ao meu perfil!!
+<h2>Bem vindo ao meu perfil!!</h2>
 <br/>
-<p>Aqui você encontra sobre mim, os meus projetos e as ferramentas que utilizo</p>
+<p align = "center" >Aqui você encontra sobre mim, os meus projetos e as ferramentas que utilizo</p>
 <br/>
 <br>
-Sobre mim
-<p>Como Desenvolvedor front-end, tenho experiência na criação de landing pages para pessoas que querem apresentar sua empresa ou seu negócio e divulga-las na internet. No meu ambiente Profissional utilizo as tecnologias HTML | CSS | JavaScript | Reactjs | Nodejs. Estou continuamente aprimorando meus conhecimento nessas tecnologias.<br>
-<br>
-  Estou sempre disponível em aprender mais e trocar meus conhecimentos, além disso, gosto de ser ativo e comunicativo ao trabalhar em equipe.</p>
+<h2>Sobre mim</h2>
+<p>Como Desenvolvedor front-end, tenho experiência na criação de landing pages para pessoas que querem apresentar sua empresa ou seu negócio e divulga-las na internet. No meu ambiente Profissional utilizo as tecnologias HTML | CSS | JavaScript | Reactjs | Nodejs. Estou continuamente aprimorando meus conhecimento nessas tecnologias. Estou sempre disponível em aprender mais e trocar meus conhecimentos, além disso, gosto de ser ativo e comunicativo ao trabalhar em equipe.</p>
 
 <br>
 <br>
