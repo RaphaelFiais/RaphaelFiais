@@ -3,13 +3,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Front-End;Buscando+sempre+constante+evolução;"></a>
 </p>
-<h2>Bem vindo ao meu perfil!!</h2>
+<h2>My name is Raphael and i'm 23 years old</h2>
 <br/>
-<p align = "center" >Aqui você encontra sobre mim, os meus projetos e as ferramentas que utilizo</p>
+<p align = "center" >
+Here you can find out about me, my projects and the tools I use.</p>
 <br/>
 <br>
-<h2>Sobre mim</h2>
-<p>Como Desenvolvedor front-end, tenho experiência na criação de landing pages para pessoas que querem apresentar sua empresa ou seu negócio e divulga-las na internet. No meu ambiente Profissional utilizo as tecnologias HTML | CSS | JavaScript | Reactjs | Nodejs. Estou continuamente aprimorando meus conhecimento nessas tecnologias. Estou sempre disponível em aprender mais e trocar meus conhecimentos, além disso, gosto de ser ativo e comunicativo ao trabalhar em equipe.</p>
+<h2>About me</h2>
+<p>As a front-end developer, I have experience in creating landing pages for people who want to present their company or business and promote them on the internet. In my Professional environment I use HTML technologies | css | JavaScript | reactjs | nodejs. I am continually improving my knowledge of these technologies. I am always available to learn more and exchange my knowledge, in addition, I like to be active and communicative when working in a team.</p>
 
 <br>
 <br>
@@ -18,17 +19,23 @@
 <br>
 <br>
 <br>
-Ferramentas:
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+Tools and technologies:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,docker,css,nodejs,react,styledcomponents,sequelize,mongodb,postgres,vscode" />
+  </a>
+</p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFiais)](https://github.com/anuraghazra/github-readme-stats)
-
+<span align="center ">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFiais)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelFiais&show_icons=true&theme=dark)
+</span> 
 
-Me siga nas redes sociais:
+
+
+Follow-me:
 <br>
-<a href="https://www.instagram.com/raphaelfiais/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="https://www.instagram.com/raphaelfiais/" > <img src="https://skillicons.dev/icons?i=instagram"/> </a>
+<a href="https://www.linkedin.com/in/raphaelfiais/" > <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+
 <br>
