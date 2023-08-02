@@ -10,7 +10,7 @@ Here you can find out about me, my projects and the tools I use.</p>
 <br/>
 <br>
 <h2>About me</h2>
-<p>As a front-end developer, I have experience in creating landing pages for people who want to present their company or business and promote them on the internet. In my Professional environment I use HTML technologies | css | JavaScript | reactjs | nodejs. I am continually improving my knowledge of these technologies. I am always available to learn more and exchange my knowledge, in addition, I like to be active and communicative when working in a team.</p>
+<p>As a full-stack developer, I have experience in creating landing pages for people who want to present their company or business and promote them on the internet. In my Professional environment I use HTML technologies | css | JavaScript | reactjs | nodejs. I am continually improving my knowledge of these technologies. I am always available to learn more and exchange my knowledge, in addition, I like to be active and communicative when working in a team.</p>
 
 <br>
 <br>
